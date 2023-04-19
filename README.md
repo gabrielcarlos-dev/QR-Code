@@ -6,7 +6,7 @@
     Esse projeto foi criado através do frontendmentor onde ensinam a programar
 </h4>
 
-<img src="">
+<img src="https://github.com/gabrielcarlos-dev/QR-Code/blob/master/images/Bloco%20de%20Texto%20com%20Mockup%20de%20Notebook%20Alinhado%20%C3%A0%20Direita%20(10).png?raw=true">
 <br>
   <h3>💻 DESCRIÇÃO </h3>
 
